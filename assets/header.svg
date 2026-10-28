@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Eduardo Neves — Desenvolvedor web">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0e7ff"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="900" height="220" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .title { font: 700 46px 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#txt); animation: rise 1.2s ease-out both; }
+    .sub { font: 500 20px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c7d2fe; opacity: 0; }
+    .s1 { animation: cycle 9s infinite 0s; }
+    .s2 { animation: cycle 9s infinite 3s; }
+    .s3 { animation: cycle 9s infinite 6s; }
+    .code { font: 600 16px Consolas, 'Courier New', monospace; fill: #a5f3fc; opacity: .55; animation: float 6s ease-in-out infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes cycle { 0% { opacity: 0; transform: translateY(8px); } 6%, 30% { opacity: 1; transform: translateY(0); } 36%, 100% { opacity: 0; transform: translateY(-8px); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="220" fill="url(#bg)"/>
+    <circle cx="780" cy="40" r="90" fill="#22d3ee" opacity=".12"/>
+    <circle cx="90" cy="200" r="110" fill="#818cf8" opacity=".14"/>
+    <path fill="#22d3ee" opacity=".18" d="M0 170 C150 130 300 210 450 170 S750 130 900 170 V220 H0Z">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="M0 170 C150 130 300 210 450 170 S750 130 900 170 V220 H0Z;
+                M0 170 C150 210 300 130 450 170 S750 210 900 170 V220 H0Z;
+                M0 170 C150 130 300 210 450 170 S750 130 900 170 V220 H0Z"/>
+    </path>
+    <path fill="#818cf8" opacity=".22" d="M0 190 C200 160 350 215 500 190 S780 165 900 190 V220 H0Z">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite"
+        values="M0 190 C200 160 350 215 500 190 S780 165 900 190 V220 H0Z;
+                M0 190 C200 215 350 160 500 190 S780 215 900 190 V220 H0Z;
+                M0 190 C200 160 350 215 500 190 S780 165 900 190 V220 H0Z"/>
+    </path>
+    <text class="code" x="690" y="70">&lt;/&gt;</text>
+    <text class="code" x="760" y="130" style="animation-delay:-2s">{ }</text>
+    <text class="code" x="640" y="140" style="animation-delay:-4s">=&gt;</text>
+    <text class="title" x="50" y="100">Eduardo Neves</text>
+    <text class="sub s1" x="52" y="145">Desenvolvedor web</text>
+    <text class="sub s2" x="52" y="145">Sites e agendamentos para pequenos negócios</text>
+    <text class="sub s3" x="52" y="145">Cloudflare Workers · JavaScript · Obsidian</text>
+  </g>
+</svg>

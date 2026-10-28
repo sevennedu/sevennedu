@@ -1,16 +1,18 @@
 <div align="center">
 
-# Olá, eu sou o Eduardo 👋
+<img src="assets/header.svg" alt="Eduardo Neves — Desenvolvedor web" width="100%" />
 
-**Desenvolvimento web · sites para pequenos negócios · estudos e organização com Obsidian**
+<br/>
 
-<img src="https://img.shields.io/badge/Perfil-@sevennedu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/github/followers/sevennedu?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores" />
-<img src="https://komarev.com/ghpvc/?username=sevennedu&label=Visitas&style=for-the-badge&color=blue" alt="Visitas" />
+[![Lumière Estética](https://img.shields.io/badge/▶_Ver_Lumière_Estética-ao_vivo-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white)](https://lumiere-estetica.lumiere-estetica.workers.dev)
+[![Star Moda Fashion](https://img.shields.io/badge/▶_Ver_Star_Moda-ao_vivo-EC4899?style=for-the-badge&logo=vercel&logoColor=white)](https://star-moda-fashion.vercel.app)
+
+![Seguidores](https://img.shields.io/github/followers/sevennedu?label=Seguidores&style=flat-square&logo=github&color=0e7490)
+![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios_p%C3%BAblicos-2-312e81?style=flat-square&logo=github)
+![Último commit](https://img.shields.io/github/last-commit/sevennedu/lumiere-estetica?label=%C3%BAltimo%20commit&style=flat-square&color=0e7490)
+![Visitas](https://komarev.com/ghpvc/?username=sevennedu&label=Visitas&style=flat-square&color=312e81)
 
 </div>
-
----
 
 ## 🧑‍💻 Sobre mim
 
@@ -21,6 +23,8 @@
 - 🤖 Uso IA no dia a dia para acelerar o desenvolvimento e testar ideias.
 
 ## 🛠️ Tecnologias
+
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,19 +37,49 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
+</div>
+
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**Lumière Estética**](https://github.com/sevennedu/lumiere-estetica) | Site de clínica de estética com **agendamento online**, consulta/cancelamento e painel admin. [Ver no ar](https://lumiere-estetica.lumiere-estetica.workers.dev) | JavaScript · Cloudflare Workers · D1 |
-| [**Star Moda Fashion**](https://github.com/sevennedu/star-moda-fashion) | Landing page de loja de vestidos de festa, com fachada animada em SVG e contato por WhatsApp. [Ver no ar](https://star-moda-fashion.vercel.app) | HTML · CSS · JavaScript · Vercel |
+<details open>
+<summary><b>💆 Lumière Estética</b> — site de clínica com agendamento online</summary>
+<br/>
 
-## 📊 Estatísticas do GitHub
+- 📅 Agendamento online, com consulta e cancelamento pelo cliente
+- 🔐 Painel administrativo para a clínica
+- ☁️ Roda como **Cloudflare Worker** com banco **D1**; versão Express + SQLite para uso local
+- 🔗 [Site no ar](https://lumiere-estetica.lumiere-estetica.workers.dev) · [Código](https://github.com/sevennedu/lumiere-estetica)
+
+</details>
+
+<details>
+<summary><b>👗 Star Moda Fashion</b> — landing page de vestidos de festa</summary>
+<br/>
+
+- 🏪 Fachada da loja animada em SVG
+- 💬 Contato direto por WhatsApp e menu responsivo para celular
+- ⚡ HTML, CSS e JavaScript puros, publicado na **Vercel**
+- 🔗 [Site no ar](https://star-moda-fashion.vercel.app) · [Código](https://github.com/sevennedu/star-moda-fashion)
+
+</details>
+
+## 📊 Em números
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sevennedu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevennedu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img src="assets/languages.svg" alt="Linguagens mais usadas: JavaScript, HTML e CSS" width="460" />
+
+</div>
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevennedu/sevennedu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sevennedu/sevennedu/output/github-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/sevennedu/sevennedu/output/github-snake.svg" />
+</picture>
 
 </div>
 
