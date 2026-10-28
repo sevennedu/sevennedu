@@ -14,6 +14,7 @@
 
 ## 🧑‍💻 Sobre mim
 
+- 📍 Presidente Epitácio, SP
 - 🔨 Crio sites e landing pages para negócios locais, do layout ao deploy.
 - 🌐 Gosto de soluções simples: HTML/CSS/JS puros quando basta, e **Cloudflare Workers + D1** quando precisa de backend.
 - 📚 Organizo meus estudos e anotações em um vault no **Obsidian**, com backup automático via Git.
