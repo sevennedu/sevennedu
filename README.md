@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Lumière Estética](https://img.shields.io/badge/▶_Ver_Lumière_Estética-ao_vivo-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white)](https://lumiere-estetica.lumiere-estetica.workers.dev)
+[![Lumière Estética](https://img.shields.io/badge/▶_Ver_Lumière_Estética-ao_vivo-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white)](https://lumiere-estetica.sevenedu.workers.dev)
 [![Star Moda Fashion](https://img.shields.io/badge/▶_Ver_Star_Moda-ao_vivo-EC4899?style=for-the-badge&logo=vercel&logoColor=white)](https://star-moda-fashion.vercel.app)
 
 ![Seguidores](https://img.shields.io/github/followers/sevennedu?label=Seguidores&style=flat-square&logo=github&color=0e7490)
@@ -48,7 +48,7 @@
 - 📅 Agendamento online, com consulta e cancelamento pelo cliente
 - 🔐 Painel administrativo para a clínica
 - ☁️ Roda como **Cloudflare Worker** com banco **D1**; versão Express + SQLite para uso local
-- 🔗 [Site no ar](https://lumiere-estetica.lumiere-estetica.workers.dev) · [Código](https://github.com/sevennedu/lumiere-estetica)
+- 🔗 [Site no ar](https://lumiere-estetica.sevenedu.workers.dev) · [Código](https://github.com/sevennedu/lumiere-estetica)
 
 </details>
 
